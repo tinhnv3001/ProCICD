@@ -12,6 +12,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
        print("Xin chào")
+        // haha
+        print("Da chinh sua")
        // /dsfsdfsdf
         // chuaanr me
     }
