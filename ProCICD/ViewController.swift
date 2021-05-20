@@ -12,7 +12,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
        print("Xin chào")
-       // /dsfsdf
+       // /dsfsdfsdf
+        // chuaanr me
     }
 
 
